@@ -1,0 +1,3 @@
+linux için: sudo apt install gcc-mips-linux-gnu
+            sudo apt install qemu ???
+windows: mars 4.5
